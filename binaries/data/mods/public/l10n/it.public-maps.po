@@ -18,7 +18,7 @@
 # Gianluca Luparini <gianlucalup@gmail.com>, 2021
 # Giuseppe D'Addio <giuseppinoino@virgilio.it>, 2019-2021
 # Italang, 2019
-# Kevin Tonel <prophetinnocence@gmail.com>, 2018
+# 
 # Luca Errani <luca.errani1@gmail.com>, 2018
 # Matteo Haenen <matteo.haenen@gmail.com>, 2020
 # mattia_b89 <mattia.b89@gmail.com>, 2017-2018
